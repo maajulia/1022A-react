@@ -1,7 +1,7 @@
 header{
     height: 20rem;
-    background-color: rgb(13, 206, 240);
-    color: rgb(235, 18, 137);
+    background-color: rgb(64, 150, 248);
+    color: rgb(243, 240, 242);
     display: flex;
     padding: 0px 5vw;
     align-items: center;
@@ -20,9 +20,9 @@ gap: 1rem;
 }
 
 header nav ul li a{
-    color: blueviolet;
+    color: rgb(255, 255, 255);
     text-decoration: none;
-    border: 0.1rem solid  aquamarine;
+    border: 0.1rem solid  rgb(255, 255, 255);
     border-radius: 0.2rem;
     padding: 0.8rem 1rem;
 }

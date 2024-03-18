@@ -14,3 +14,4 @@ function MeuComponente(){
         <div className =" minha-div"><p>{variavel}</p></div>
     )
 }
+export default MeuComponente;
