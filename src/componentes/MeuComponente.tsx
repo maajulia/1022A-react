@@ -6,7 +6,6 @@
 //crie uma div no componente que dentro dela mostre um <p> 
 // contendo o valor da variavel 
 
-export default MeuComponente;
 import 'MeuComponente.css'
 
 function MeuComponente(){
