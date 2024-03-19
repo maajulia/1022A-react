@@ -4,4 +4,6 @@ html{
 body{
     margin:0px;
     font-size : 1.6rem;
+    /*se nao conseguir carregar a poppins, usa a sans-serif*/
+    font-family: "Poppins", sans-serif;
 }
